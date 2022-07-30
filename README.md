@@ -1,5 +1,5 @@
 # Pascal-VOC-to-COCO-annoatations-Converter
-#To convert from voc to coco run voc2coco.py with the following arguments.
+# To convert from voc to coco run voc2coco.py with the following arguments.
 voc2coco.py --ann_dir  --ann_ids  --labels  --output  --ext xml  
 ann_dir -Path to the image directory  
 ann_ids -Path to the ann_ids directory  
