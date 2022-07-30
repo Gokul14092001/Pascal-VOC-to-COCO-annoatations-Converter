@@ -12,3 +12,5 @@ labels-Path to the labels directory
           van  
           bike...  
 Output-Path to the output directory  
+## For ann_ids example have been attached
+## Note:This is only for jpg images
